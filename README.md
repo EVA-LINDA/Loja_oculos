@@ -1,5 +1,3 @@
-# Loja_oculos
-Fazer uma leand page dos produto de óculos 
 # Loja_óculos
 
 Página de uma loja de óculos com catálogo de produtos.
